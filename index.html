@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movie Watchlist</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app">
+    <header class="header">
+      <h1>Find your film</h1>
+      <a href="watchlist.html">My Watchlist</a>
+    </header>
+    <div class="search-container">
+      <input
+        type="text"
+        id="search-input"
+        placeholder="Search for a movie..."
+      />
+      <button id="search-btn">Search</button>
+    </div>
+    <main id="movie-results">
+        <div class="empty-state">
+            <span class="movie-icon">🎞️</span>
+            <p>Start exploring</p>
+            <span>Search for a movie to build your watchlist.</span>
+        </div>
+    </main>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
