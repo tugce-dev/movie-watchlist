@@ -144,18 +144,6 @@ The project also strengthened my understanding of the relationship between API d
 
 ---
 
-## 🚀 Future Improvements
-
-Possible improvements for future versions include:
-
-- Search by pressing Enter
-- Loading indicators while API requests are running
-- Improved API/network error handling
-- Movie filtering and sorting
-- Pagination for additional search results
-
----
-
 ## 👩‍💻 Author
 
 **Tuğçe Çırak**
